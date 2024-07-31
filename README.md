@@ -16,12 +16,12 @@ Use:
 to compile and run the model
 
 ## Source files
-[main.c] (main.c) setup configuration of Neural Network by defining paramters of each layer
+[main.c](main.c) setup configuration of Neural Network by defining paramters of each layer
 
-[neural_network.c] (neural_network.c) neural netowrk running functions
+[neural_network.c](neural_network.c) neural netowrk running functions
 
-[data_format.c] (data_format.c) Special data types used for model
+[data_format.c](data_format.c) Special data types used for model
 
-[activation_functions.h] (activations_functions.h) library of different activation functions and their derivatives to use (incomplete)
+[activation_functions.h](activations_functions.h) library of different activation functions and their derivatives to use (incomplete)
 
-[data.h] (inlude/data.h) sample data for model to run on
+[data.h](inlude/data.h) sample data for model to run on
