@@ -22,6 +22,6 @@ to compile and run the model
 
 [data_format.c](data_format.c) Special data types used for model
 
-[activation_functions.h](activations_functions.h) library of different activation functions and their derivatives to use (incomplete)
+[activation_functions.h](activation_functions.h) library of different activation functions and their derivatives to use (incomplete)
 
-[data.h](inlude/data.h) sample data for model to run on
+[data.h](./inlude/data.h) sample data for model to run on
