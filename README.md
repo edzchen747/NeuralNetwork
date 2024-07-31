@@ -24,4 +24,4 @@ to compile and run the model
 
 [activation_functions.h](activation_functions.h) library of different activation functions and their derivatives to use (incomplete)
 
-[data.h](./inlude/data.h) sample data for model to run on
+[data.h](./include/data.h) sample data for model to run on
